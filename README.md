@@ -9,6 +9,7 @@ Backend
 - PM2
 
 Intale as dependências > npm i
+
 Inicie o Mongod.exe e execute npm run dev. (Porta 3003)
 
 Frontend
